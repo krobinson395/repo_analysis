@@ -1,0 +1,30 @@
+Analyzing package capabilities
+
+sofa-hessian, {'file-read': 0, 'file-write': 0, 'socket-connect': 0, 'socket-server': 0, 'runtime-exec': 0}
+htmlunit-neko, Pom.xml not found. Continuing...
+htmlunit-neko, {'file-read': 0, 'file-write': 0, 'socket-connect': 0, 'socket-server': 0, 'runtime-exec': 0}
+jackson-databind, {'file-read': 1, 'file-write': 0, 'socket-connect': 0, 'socket-server': 0, 'runtime-exec': 0}
+spring-data-mongodb, CodeQL build failed
+hadoop, CodeQL build failed
+spotless, Pom.xml not found. Continuing...
+spotless, {'file-read': 5, 'file-write': 1, 'socket-connect': 0, 'socket-server': 0, 'runtime-exec': 2}
+tomcat, Pom.xml not found. Continuing...
+tomcat, CodeQL build failed
+californium, CodeQL build failed
+xxl-job, {'file-read': 3, 'file-write': 4, 'socket-connect': 0, 'socket-server': 1, 'runtime-exec': 1}
+htsjdk, Pom.xml not found. Continuing...
+htsjdk, {'file-read': 21, 'file-write': 11, 'socket-connect': 2, 'socket-server': 0, 'runtime-exec': 5}
+tika, {'file-read': 5, 'file-write': 3, 'socket-connect': 1, 'socket-server': 0, 'runtime-exec': 12}
+plexus-archiver, {'file-read': 0, 'file-write': 0, 'socket-connect': 0, 'socket-server': 0, 'runtime-exec': 0}
+jettison, {'file-read': 0, 'file-write': 0, 'socket-connect': 0, 'socket-server': 0, 'runtime-exec': 0}
+quarkus, CodeQL build failed
+karaf, CodeQL build failed
+vert.x, Pom.xml not found. Continuing...
+vert.x, {'file-read': 1, 'file-write': 0, 'socket-connect': 0, 'socket-server': 0, 'runtime-exec': 0}
+dubbo, CodeQL build failed
+jfinal, {'file-read': 5, 'file-write': 6, 'socket-connect': 0, 'socket-server': 0, 'runtime-exec': 0}
+cryptacular, {'file-read': 6, 'file-write': 0, 'socket-connect': 0, 'socket-server': 0, 'runtime-exec': 0}
+opentsdb, Pom.xml not found. Continuing...
+opentsdb, CodeQL build failed
+dubbo-hessian-lite, {'file-read': 0, 'file-write': 0, 'socket-connect': 0, 'socket-server': 0, 'runtime-exec': 0}
+beetl2.0, {'file-read': 2, 'file-write': 0, 'socket-connect': 0, 'socket-server': 0, 'runtime-exec': 0}

@@ -1,0 +1,176 @@
+Processing Maven Test Coverage
+com.alipay.sofa:hessian - sofa-bolt - 75.8437247308167%
+com.alipay.sofa:hessian - Lu-Rpc - 8.28331332533013%
+com.alipay.sofa:hessian - jobop/gekko - Timeout
+com.alipay.sofa:hessian - raft-kv - 17.883597883597886%
+com.alipay.sofa:hessian - pikaq - Jacoco.xml not found
+com.alipay.sofa:hessian - douyin-server - Jacoco.xml not found
+com.alipay.sofa:hessian - RaftConsensus - Jacoco.xml not found
+com.alipay.sofa:hessian - DistributedKVSystem - Jacoco.xml not found
+com.alipay.sofa:hessian - spring-base-grpc - Jacoco.xml not found
+com.alipay.sofa:hessian - Distributed-System - Jacoco.xml not found
+com.alipay.sofa:hessian - gekko - Maven test failed
+net.sourceforge.htmlunit:neko-htmlunit - HtmlUnit/htmlunit - Timeout
+net.sourceforge.htmlunit:neko-htmlunit - selenese-runner-java - Jacoco.xml not found
+net.sourceforge.htmlunit:neko-htmlunit - XLT - Jacoco.xml not found
+net.sourceforge.htmlunit:neko-htmlunit - easy-page - 10.638297872340425%
+net.sourceforge.htmlunit:neko-htmlunit - szajs - Jacoco.xml not found
+net.sourceforge.htmlunit:neko-htmlunit - Cucumber - Jacoco.xml not found
+net.sourceforge.htmlunit:neko-htmlunit - roBOTcop - Jacoco.xml not found
+net.sourceforge.htmlunit:neko-htmlunit - HtmlUnit_2.50.0 - Jacoco.xml not found
+net.sourceforge.htmlunit:neko-htmlunit - smsTest - 0.0%
+net.sourceforge.htmlunit:neko-htmlunit - ProxyCrawler - Jacoco.xml not found
+net.sourceforge.htmlunit:neko-htmlunit - htmlunit - Maven test failed
+org.springframework.data:spring-data-mongodb - bitrade-parent - Jacoco.xml not found
+org.springframework.data:spring-data-mongodb - nationalparks - Jacoco.xml not found
+org.springframework.data:spring-data-mongodb - xun - Jacoco.xml not found
+org.springframework.data:spring-data-mongodb - RestfulQueries - Jacoco.xml not found
+org.springframework.data:spring-data-mongodb - mongobeeJ - 77.50959956116293%
+org.springframework.data:spring-data-mongodb - classifiedsMVC - Jacoco.xml not found
+org.springframework.data:spring-data-mongodb - pay - Jacoco.xml not found
+org.springframework.data:spring-data-mongodb - swagger-spring - Jacoco.xml not found
+org.springframework.data:spring-data-mongodb - flow.service.workflow - Jacoco.xml not found
+org.springframework.data:spring-data-mongodb - obiba-commons - Jacoco.xml not found
+com.diffplug.spotless:spotless-plugin-gradle - cucumber - Jacoco.xml not found
+org.apache.tomcat:tomcat - nuxeo - Jacoco.xml not found
+org.apache.tomcat:tomcat - product-as - Jacoco.xml not found
+org.apache.tomcat:tomcat - jkta - Jacoco.xml not found
+org.apache.tomcat:tomcat - stationery-store - Jacoco.xml not found
+org.apache.tomcat:tomcat - Crud-on-own-ORM - Jacoco.xml not found
+org.apache.tomcat:tomcat - interActive - Jacoco.xml not found
+org.apache.tomcat:tomcat - MehrComputerSystems - Jacoco.xml not found
+org.apache.tomcat:tomcat - First_struts_app - Jacoco.xml not found
+org.apache.tomcat:tomcat - CE4062-2 - Jacoco.xml not found
+org.apache.tomcat:tomcat - exemple-integration - Jacoco.xml not found
+org.eclipse.californium:californium-core - jetlinks-community - 54.02298850574713%
+org.eclipse.californium:californium-core - leshan - Jacoco.xml not found
+org.eclipse.californium:californium-core - Groza - Jacoco.xml not found
+org.eclipse.californium:californium-core - IoT-Toolkit - Jacoco.xml not found
+org.eclipse.californium:californium-core - demo-protocol - 0.0%
+org.eclipse.californium:californium-core - performance-tests - Jacoco.xml not found
+org.eclipse.californium:californium-core - performance-tests - Jacoco.xml not found
+org.eclipse.californium:californium-core - jetlinks-supports - 40.57855114028073%
+org.eclipse.californium:californium-core - Tempus - Jacoco.xml not found
+org.eclipse.californium:californium-core - ikea-tradfri-api - Jacoco.xml not found
+com.xuxueli:xxl-job-core - waynboot-mall - Jacoco.xml not found
+com.xuxueli:xxl-job-core - yinjihuan/kitty - Timeout
+com.xuxueli:xxl-job-core - springboot-learning - Jacoco.xml not found
+com.xuxueli:xxl-job-core - TLog - Jacoco.xml not found
+com.xuxueli:xxl-job-core - smart-cloud - 82.97029702970296%
+com.xuxueli:xxl-job-core - coding-more - Jacoco.xml not found
+com.xuxueli:xxl-job-core - RuoYi-Flowable-Plus - Jacoco.xml not found
+com.xuxueli:xxl-job-core - bitrade-parent - Jacoco.xml not found
+com.xuxueli:xxl-job-core - wc-manager-system - Repo cloning failed
+com.xuxueli:xxl-job-core - professional-wings - Jacoco.xml not found
+com.xuxueli:xxl-job-core - kitty - Maven test failed
+com.github.samtools:htsjdk - SnpEff - Jacoco.xml not found
+com.github.samtools:htsjdk - abra2 - 18.678484614928557%
+com.github.samtools:htsjdk - Hadoop-BAM - Jacoco.xml not found
+com.github.samtools:htsjdk - eoulsan - Jacoco.xml not found
+com.github.samtools:htsjdk - dataflow-java - Jacoco.xml not found
+com.github.samtools:htsjdk - kourami - Jacoco.xml not found
+com.github.samtools:htsjdk - mutserve - 59.463276836158194%
+com.github.samtools:htsjdk - biodata - Jacoco.xml not found
+com.github.samtools:htsjdk - LIRICAL - Jacoco.xml not found
+com.github.samtools:htsjdk - pipeline5 - Jacoco.xml not found
+org.apache.tika:tika-core - onedev - Jacoco.xml not found
+org.apache.tika:tika-core - xwiki-platform - Jacoco.xml not found
+org.apache.tika:tika-core - couchdb-lucene - 28.924435955592692%
+org.apache.tika:tika-core - openmeetings - Jacoco.xml not found
+org.apache.tika:tika-core - springboot-learning - Jacoco.xml not found
+org.apache.tika:tika-core - cantaloupe-project/cantaloupe - Timeout
+org.apache.tika:tika-core - cantaloupe - Jacoco.xml not found
+org.apache.tika:tika-core - FXDesktopSearch - Jacoco.xml not found
+org.apache.tika:tika-core - jcommune - Jacoco.xml not found
+org.apache.tika:tika-core - korpling/ANNIS - Timeout
+org.apache.tika:tika-core - github-bucket - Jacoco.xml not found
+org.apache.tika:tika-core - ANNIS - Jacoco.xml not found
+org.codehaus.jettison:jettison - apache/hive - Timeout
+org.codehaus.jettison:jettison - apache/hbase - Timeout
+org.codehaus.jettison:jettison - Chronicle-Map - 53.15178039503231%
+org.codehaus.jettison:jettison - apache/atlas - Timeout
+org.codehaus.jettison:jettison - atlas - Jacoco.xml not found
+org.codehaus.jettison:jettison - aliyun-oss-java-sdk - Jacoco.xml not found
+org.codehaus.jettison:jettison - swagger-maven-plugin - 77.08314647053547%
+org.codehaus.jettison:jettison - hive - Maven test failed
+org.codehaus.jettison:jettison - eclipse-ee4j/jersey - Timeout
+org.codehaus.jettison:jettison - openmeetings - Jacoco.xml not found
+org.codehaus.jettison:jettison - nuxeo - Jacoco.xml not found
+org.codehaus.jettison:jettison - pentaho-reporting - Jacoco.xml not found
+org.codehaus.jettison:jettison - hbase - Maven test failed
+org.codehaus.jettison:jettison - jersey - Jacoco.xml not found
+org.apache.karaf:apache-karaf - opennaas - Jacoco.xml not found
+org.apache.karaf:apache-karaf - org.ops4j.pax.wicket - 49.440298507462686%
+org.apache.karaf:apache-karaf - fuse-karaf - Jacoco.xml not found
+org.apache.karaf:apache-karaf - Karaf-Cassandra - Jacoco.xml not found
+org.apache.karaf:apache-karaf - org.ops4j.pax.transx - Jacoco.xml not found
+org.apache.karaf:apache-karaf - camel-osgi - Jacoco.xml not found
+org.apache.karaf:apache-karaf - jentrata - Jacoco.xml not found
+org.apache.karaf:apache-karaf - jclouds-karaf - Jacoco.xml not found
+org.apache.karaf:apache-karaf - storm-osgi - Jacoco.xml not found
+org.apache.karaf:apache-karaf - karaf-jclouds - Jacoco.xml not found
+io.vertx:vertx-web - pulsar - Jacoco.xml not found
+io.vertx:vertx-web - reactive - Jacoco.xml not found
+io.vertx:vertx-web - strimzi-kafka-bridge - 4.509311571458465%
+io.vertx:vertx-web - znai - Jacoco.xml not found
+io.vertx:vertx-web - vertx-zero - Jacoco.xml not found
+io.vertx:vertx-web - nassh-relay - 6.416275430359937%
+io.vertx:vertx-web - vert-x3/vertx-hazelcast - Timeout
+io.vertx:vertx-web - vertx-hazelcast - Jacoco.xml not found
+io.vertx:vertx-web - vertx-musicstore - Jacoco.xml not found
+io.vertx:vertx-web - prebid-server-java - Jacoco.xml not found
+io.vertx:vertx-web - vertx-hazelcast - Jacoco.xml not found
+org.apache.dubbo:dubbo - incubator-seata-samples - Jacoco.xml not found
+org.apache.dubbo:dubbo - goodsKill - Jacoco.xml not found
+org.apache.dubbo:dubbo - joyrpc - Jacoco.xml not found
+org.apache.dubbo:dubbo - sds - 39.743589743589745%
+org.apache.dubbo:dubbo - wuzhu-FaaS - 0.0%
+org.apache.dubbo:dubbo - SpringBoot-Project - Jacoco.xml not found
+org.apache.dubbo:dubbo - chorifa/minirpc - Timeout
+org.apache.dubbo:dubbo - springboot-dubbo - 0.0%
+org.apache.dubbo:dubbo - JFlow - Jacoco.xml not found
+org.apache.dubbo:dubbo - wywhdgg-remote-call - Jacoco.xml not found
+org.apache.dubbo:dubbo - minirpc - Maven test failed
+com.jfinal:jfinal - jboot - 12.394160973052696%
+com.jfinal:jfinal - NewsRecommendSystem - Jacoco.xml not found
+com.jfinal:jfinal - WukongCRM-9.0-JAVA - Jacoco.xml not found
+com.jfinal:jfinal - MongoDB-Plugin - 10.322212717422298%
+com.jfinal:jfinal - mica-mqtt - 0.0%
+com.jfinal:jfinal - jfinal-api-scaffold - Jacoco.xml not found
+com.jfinal:jfinal - kungfu - Jacoco.xml not found
+com.jfinal:jfinal - NewsRecommendSystem - Jacoco.xml not found
+com.jfinal:jfinal - jfinal-web - Jacoco.xml not found
+com.jfinal:jfinal - dreampie - Jacoco.xml not found
+org.cryptacular:cryptacular - passay - Jacoco.xml not found
+org.cryptacular:cryptacular - knox - Jacoco.xml not found
+org.cryptacular:cryptacular - CasExp - Jacoco.xml not found
+org.cryptacular:cryptacular - product-as - Jacoco.xml not found
+org.cryptacular:cryptacular - opendistro-for-elasticsearch/security - Timeout
+org.cryptacular:cryptacular - mdq-server - Jacoco.xml not found
+org.cryptacular:cryptacular - spring-webflow-client-repo - 63.60485268630849%
+org.cryptacular:cryptacular - credentials-support - Jacoco.xml not found
+org.cryptacular:cryptacular - qlc-ptm - Jacoco.xml not found
+org.cryptacular:cryptacular - wildfly - Jacoco.xml not found
+org.cryptacular:cryptacular - security - 71.6389631523887%
+net.opentsdb:opentsdb - opentsdb-rpc-kafka - 4.82695810564663%
+net.opentsdb:opentsdb - opentsdb-elasticsearch - Jacoco.xml not found
+net.opentsdb:opentsdb - opentsdb-flume - Jacoco.xml not found
+net.opentsdb:opentsdb - flume-ingestion - Jacoco.xml not found
+net.opentsdb:opentsdb - storm-opentsdb - Jacoco.xml not found
+net.opentsdb:opentsdb - tsquare - Jacoco.xml not found
+net.opentsdb:opentsdb - opentsdb-riemann-publisher - Jacoco.xml not found
+net.opentsdb:opentsdb - TimeSeriesBenchmark - Repo cloning failed
+net.opentsdb:opentsdb - OpenTSDB_Kafka - Jacoco.xml not found
+net.opentsdb:opentsdb - Rindle - Jacoco.xml not found
+com.alibaba:hessian-lite - dubbo-copy - Jacoco.xml not found
+com.alibaba:hessian-lite - dubbo-dubbo-2.5.3-codeanalysis - Jacoco.xml not found
+com.ibeetl:beetl - myexcel - Jacoco.xml not found
+com.ibeetl:beetl - warehouse - Jacoco.xml not found
+com.ibeetl:beetl - mybatis-plus-code-generator - 0.0%
+com.ibeetl:beetl - WebStack-Guns - Jacoco.xml not found
+com.ibeetl:beetl - Guns-Medical - Jacoco.xml not found
+com.ibeetl:beetl - ngbatis - 0.0%
+com.ibeetl:beetl - lambkit - Jacoco.xml not found
+com.ibeetl:beetl - mybatis-plus-generator - Jacoco.xml not found
+com.ibeetl:beetl - laboratory - Jacoco.xml not found
+com.ibeetl:beetl - weather - 0.0%

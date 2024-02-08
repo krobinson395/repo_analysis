@@ -1,0 +1,28 @@
+Analyzing package capabilities
+
+sofa-hessian, {'file-read': 1, 'file-write': 0, 'socket-connect': 1, 'socket-server': 0, 'runtime-exec': 0}
+htmlunit-neko, {'file-read': 6, 'file-write': 0, 'socket-connect': 0, 'socket-server': 0, 'runtime-exec': 0}
+jackson-databind, {'file-read': 2, 'file-write': 1, 'socket-connect': 0, 'socket-server': 0, 'runtime-exec': 0}
+spring-data-mongodb, {'file-read': 0, 'file-write': 0, 'socket-connect': 0, 'socket-server': 0, 'runtime-exec': 0}
+hadoop, {'file-read': 210, 'file-write': 483, 'socket-connect': 21, 'socket-server': 41, 'runtime-exec': 34}
+spotless, Pom.xml not found. Continuing...
+spotless, {'file-read': 5, 'file-write': 2, 'socket-connect': 0, 'socket-server': 0, 'runtime-exec': 2}
+tomcat, Pom.xml not found. Continuing...
+tomcat, CodeQL build failed
+californium, {'file-read': 17, 'file-write': 15, 'socket-connect': 0, 'socket-server': 0, 'runtime-exec': 1}
+xxl-job, {'file-read': 3, 'file-write': 4, 'socket-connect': 0, 'socket-server': 1, 'runtime-exec': 3}
+htsjdk, Pom.xml not found. Continuing...
+htsjdk, {'file-read': 101, 'file-write': 59, 'socket-connect': 2, 'socket-server': 0, 'runtime-exec': 7}
+tika, {'file-read': 36, 'file-write': 15, 'socket-connect': 1, 'socket-server': 1, 'runtime-exec': 28}
+plexus-archiver, {'file-read': 0, 'file-write': 0, 'socket-connect': 0, 'socket-server': 0, 'runtime-exec': 0}
+jettison, {'file-read': 1, 'file-write': 1, 'socket-connect': 0, 'socket-server': 0, 'runtime-exec': 0}
+quarkus, CodeQL build failed
+karaf, {'file-read': 80, 'file-write': 80, 'socket-connect': 5, 'socket-server': 4, 'runtime-exec': 3}
+vert.x, {'file-read': 1, 'file-write': 7, 'socket-connect': 0, 'socket-server': 1, 'runtime-exec': 1}
+dubbo, {'file-read': 20, 'file-write': 14, 'socket-connect': 2, 'socket-server': 3, 'runtime-exec': 3}
+jfinal, {'file-read': 5, 'file-write': 6, 'socket-connect': 0, 'socket-server': 0, 'runtime-exec': 0}
+cryptacular, {'file-read': 7, 'file-write': 1, 'socket-connect': 0, 'socket-server': 0, 'runtime-exec': 0}
+opentsdb, Pom.xml not found. Continuing...
+opentsdb, CodeQL build failed
+dubbo-hessian-lite, {'file-read': 0, 'file-write': 0, 'socket-connect': 0, 'socket-server': 0, 'runtime-exec': 0}
+beetl2.0, {'file-read': 2, 'file-write': 0, 'socket-connect': 0, 'socket-server': 0, 'runtime-exec': 0}
