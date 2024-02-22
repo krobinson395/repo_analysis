@@ -109,8 +109,8 @@ def get_total_dependencies_count(response):
         return None
 
 # Example usage:
-input_file_path = 'github_urls.txt'  # Replace with the actual path of your input file
-output_file_path = 'dependent_repos.txt'  # Replace with the desired output file path
+input_file_path = 'vuln_packages.txt'  # Replace with the actual path of your input file
+output_file_path = 'vuln_dependent_repos.txt'  # Replace with the desired output file path
 base_github_url = 'https://repos.ecosyste.ms/api/v1/usage/maven/'  # Replace with your base GitHub URL
 
 process_github_urls(input_file_path, output_file_path, base_github_url)

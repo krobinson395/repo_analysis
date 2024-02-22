@@ -1,0 +1,574 @@
+Deserialization - 98:
+  CVE-2020-9547 - com.fasterxml.jackson.core:jackson-databind - CWE-502 - jackson-databind mishandles the interaction between serialization gadgets and typing
+  CVE-2022-39198 - com.alibaba:hessian-lite - CWE-502 - Hessian Lite for Apache Dubbo deserialization vulnerability
+  CVE-2019-9212 - com.alipay.sofa:hessian - CWE-184,CWE-502 - Incomplete List of Disallowed Inputs in SOFA-Hessian
+  CVE-2022-36944 - org.scala-lang:scala-library - CWE-502 - Scala subject to file deletion, code execution due to Java deserialization chain with LazyList object deserialization
+  CVE-2019-0192 - org.apache.solr:solr-core - CWE-502 - Critical severity vulnerability that affects org.apache.solr:solr-core
+  CVE-2019-17531 - com.fasterxml.jackson.core:jackson-databind - CWE-502 - jackson-databind polymorphic typing issue
+  CVE-2020-8441 - org.jyaml:jyaml - CWE-502 - Deserialization of Untrusted Data in JYaml
+  CVE-2020-36181 - com.fasterxml.jackson.core:jackson-databind - CWE-502 - Unsafe Deserialization in jackson-databind
+  CVE-2019-14540 - com.fasterxml.jackson.core:jackson-databind - CWE-502 - Polymorphic Typing issue in FasterXML jackson-databind
+  CVE-2022-45047 - org.apache.sshd:sshd-common - CWE-502 - Unsafe deserialization in Apache MINA SSHD
+  CVE-2021-41616 - org.apache.ddlutils:ddlutils - CWE-502 - Deserialization of Untrusted Data in org.apache.ddlutils:ddlutils
+  CVE-2023-46604 - org.apache.activemq:activemq-client - CWE-502 - Apache ActiveMQ is vulnerable to Remote Code Execution
+  CVE-2021-39139 - com.thoughtworks.xstream:xstream - CWE-502 - XStream is vulnerable to an Arbitrary Code Execution attack
+  CVE-2020-36183 - com.fasterxml.jackson.core:jackson-databind - CWE-502 - Unsafe Deserialization in jackson-databind
+  CVE-2020-35491 - com.fasterxml.jackson.core:jackson-databind - CWE-502,CWE-913 - Serialization gadgets exploit in jackson-databind
+  CVE-2020-14061 - com.fasterxml.jackson.core:jackson-databind - CWE-502 - Deserialization of untrusted data in Jackson Databind
+  CVE-2020-8840 - com.fasterxml.jackson.core:jackson-databind - CWE-502 - Deserialization of Untrusted Data in jackson-databind
+  CVE-2020-10968 - com.fasterxml.jackson.core:jackson-databind - CWE-502 - jackson-databind mishandles the interaction between serialization gadgets and typing
+  CVE-2023-6378 - ch.qos.logback:logback-classic - CWE-502 - logback serialization vulnerability
+  CVE-2019-20330 - com.fasterxml.jackson.core:jackson-databind - CWE-502 - Deserialization of Untrusted Data in jackson-databind
+  CVE-2022-25845 - com.alibaba:fastjson - CWE-502 - Unsafe deserialization in com.alibaba:fastjson
+  CVE-2020-36187 - com.fasterxml.jackson.core:jackson-databind - CWE-502 - Unsafe Deserialization in jackson-databind
+  CVE-2021-34371 - org.neo4j:neo4j - CWE-502 - Deserialization of Untrusted Data in Neo4j
+  CVE-2021-39141 - com.thoughtworks.xstream:xstream - CWE-502 - XStream is vulnerable to an Arbitrary Code Execution attack
+  CVE-2023-24621 - com.esotericsoftware.yamlbeans:yamlbeans - CWE-502 - Esoteric YamlBeans Unsafe Deserialization vulnerability
+  CVE-2021-36163 - org.apache.dubbo:dubbo - CWE-502 - Hessian protocol configuration vulnerability in Apache Dubbo
+  CVE-2020-9548 - com.fasterxml.jackson.core:jackson-databind - CWE-502 - jackson-databind mishandles the interaction between serialization gadgets and typing
+  CVE-2022-46366 - org.apache.tapestry:tapestry-core - CWE-502 - Apache Tapestry allows deserialization of untrusted data
+  CVE-2020-36180 - com.fasterxml.jackson.core:jackson-databind - CWE-502 - Unsafe Deserialization in jackson-databind
+  CVE-2020-11620 - com.fasterxml.jackson.core:jackson-databind - CWE-502 - jackson-databind mishandles the interaction between serialization gadgets and typing
+  CVE-2020-5413 - org.springframework.integration:spring-integration-core - CWE-502 - Code execution in Spring Integration
+  CVE-2021-43297 - org.apache.dubbo:dubbo - CWE-502 - Deserialization of Untrusted Data in Dubbo
+  CVE-2021-4104 - log4j:log4j - CWE-502 - JMSAppender in Log4j 1.2 is vulnerable to deserialization of untrusted data
+  CVE-2021-39149 - com.thoughtworks.xstream:xstream - CWE-434,CWE-502 - XStream is vulnerable to an Arbitrary Code Execution attack
+  CVE-2020-14195 - com.fasterxml.jackson.core:jackson-databind - CWE-502 - Deserialization of untrusted data in Jackson Databind
+  CVE-2023-23638 - org.apache.dubbo:dubbo - CWE-502 - Apache Dubbo vulnerable to Deserialization of Untrusted Data
+  CVE-2023-33496 - com.xuxueli:xxl-rpc-core - CWE-502 - xxl-rpc deserialization vulnerability
+  CVE-2020-11111 - com.fasterxml.jackson.core:jackson-databind - CWE-502 - jackson-databind mishandles the interaction between serialization gadgets and typing
+  CVE-2019-16943 - com.fasterxml.jackson.core:jackson-databind - CWE-502 - jackson-databind polymorphic typing issue
+  CVE-2020-26945 - org.mybatis:mybatis - CWE-502 - Deserialization errors in MyBatis
+  CVE-2020-10650 - com.fasterxml.jackson.core:jackson-databind - CWE-502 - jackson-databind before 2.9.10.4 vulnerable to unsafe deserialization
+  CVE-2022-25647 - com.google.code.gson:gson - CWE-502 - Deserialization of Untrusted Data in Gson
+  CVE-2021-20190 - com.fasterxml.jackson.core:jackson-databind - CWE-502 - Deserialization of untrusted data in jackson-databind
+  CVE-2019-14439 - com.fasterxml.jackson.core:jackson-databind - CWE-502 - Deserialization of untrusted data in FasterXML jackson-databind
+  CVE-2021-29485 - io.ratpack:ratpack-core - CWE-502 - Remote Code Execution Vulnerability in Session Storage
+  CVE-2021-25329 - org.apache.tomcat.embed:tomcat-embed-core - CWE-502 - Potential remote code execution in Apache Tomcat
+  CVE-2021-42392 - com.h2database:h2 - CWE-502 - RCE in H2 Console
+  CVE-2020-11973 - org.apache.camel:camel-netty - CWE-502 - Apache Camel Netty enables Java deserialization by default
+  CVE-2021-39146 - com.thoughtworks.xstream:xstream - CWE-502 - XStream is vulnerable to an Arbitrary Code Execution attack
+  CVE-2020-35490 - com.fasterxml.jackson.core:jackson-databind - CWE-502 - Serialization gadgets exploit in jackson-databind
+  CVE-2019-10202 - org.codehaus.jackson:jackson-mapper-asl - CWE-502 - Deserialization of Untrusted Data in org.codehaus.jackson:jackson-mapper-asl
+  CVE-2020-11972 - org.apache.camel:camel-rabbitmq - CWE-502 - Deserialization of Untrusted Data in Apache Camel RabbitMQ
+  CVE-2022-37022 - org.apache.geode:geode-core - CWE-502 - Apache Geode versions deserialization of untrusted datawhen using JMX over RMI on Java 11
+  CVE-2023-24162 - cn.hutool:hutool-all - CWE-502 - Dromara Hutool Deserialization of Untrusted Data vulnerability
+  CVE-2019-12086 - com.fasterxml.jackson.core:jackson-databind - CWE-502 - Information exposure in FasterXML jackson-databind
+  CVE-2019-16942 - com.fasterxml.jackson.core:jackson-databind - CWE-502 - Polymorphic Typing in FasterXML jackson-databind
+  CVE-2020-36184 - com.fasterxml.jackson.core:jackson-databind - CWE-502 - Unsafe Deserialization in jackson-databind
+  CVE-2020-11113 - com.fasterxml.jackson.core:jackson-databind - CWE-502 - jackson-databind mishandles the interaction between serialization gadgets and typing
+  CVE-2022-24289 - org.apache.cayenne:cayenne-server - CWE-502 - Deserialization of untrusted data in Apache Cayenne
+  CVE-2020-35728 - com.fasterxml.jackson.core:jackson-databind - CWE-502 - Serialization gadget exploit in jackson-databind
+  CVE-2021-39153 - com.thoughtworks.xstream:xstream - CWE-502 - XStream is vulnerable to an Arbitrary Code Execution attack
+  CVE-2020-14060 - com.fasterxml.jackson.core:jackson-databind - CWE-502 - Deserialization of untrusted data in Jackson Databind
+  CVE-2020-5411 - org.springframework.batch:spring-batch-core - CWE-502 - Deserialization of Untrusted Data in Spring Batch
+  CVE-2019-17571 - log4j:log4j - CWE-502 - Deserialization of Untrusted Data in Log4j
+  CVE-2021-39154 - com.thoughtworks.xstream:xstream - CWE-434,CWE-502 - XStream is vulnerable to an Arbitrary Code Execution attack
+  CVE-2023-46279 - org.apache.dubbo:dubbo - CWE-502 - Apache Dubbo: Bypass deny serialize list check in Apache Dubbo
+  CVE-2020-24750 - com.fasterxml.jackson.core:jackson-databind - CWE-502 - Unsafe Deserialization in jackson-databind
+  CVE-2023-34040 - org.springframework.kafka:spring-kafka - CWE-502 - Spring-Kafka has Java Deserialization vulnerability When Improperly Configured
+  CVE-2019-0195 - org.apache.tapestry:tapestry-core - CWE-502 - Deserialization of Untrusted Data in Apache Tapestry
+  CVE-2020-36179 - com.fasterxml.jackson.core:jackson-databind - CWE-502 - Unsafe Deserialization in jackson-databind
+  CVE-2020-14062 - com.fasterxml.jackson.core:jackson-databind - CWE-502 - Deserialization of untrusted data in Jackson Databind
+  CVE-2019-17267 - com.fasterxml.jackson.core:jackson-databind - CWE-502 - Improper Input Validation in jackson-databind
+  CVE-2022-23307 - log4j:log4j - CWE-502 - Deserialization of Untrusted Data in Apache Log4j
+  CVE-2019-16335 - com.fasterxml.jackson.core:jackson-databind - CWE-502 - Polymorphic Typing issue in FasterXML jackson-databind
+  CVE-2020-10969 - com.fasterxml.jackson.core:jackson-databind - CWE-502 - jackson-databind mishandles the interaction between serialization gadgets and typing
+  CVE-2020-1948 - org.apache.dubbo:dubbo - CWE-502 - Deserialization of Untrusted Data in Apache Dubbo
+  CVE-2021-39148 - com.thoughtworks.xstream:xstream - CWE-502 - XStream is vulnerable to an Arbitrary Code Execution attack
+  CVE-2020-36185 - com.fasterxml.jackson.core:jackson-databind - CWE-502 - Unsafe Deserialization in jackson-databind
+  CVE-2020-9484 - org.apache.tomcat:tomcat-catalina - CWE-502 - Potential remote code execution in Apache Tomcat
+  CVE-2021-30179 - org.apache.dubbo:dubbo - CWE-502 - Deserialization of Untrusted Data in Apache Dubbo
+  CVE-2019-10086 - commons-beanutils:commons-beanutils - CWE-502 - Insecure Deserialization in Apache Commons Beanutils
+  CVE-2022-23302 - log4j:log4j - CWE-502 - Deserialization of Untrusted Data in Log4j 1.x
+  CVE-2022-37021 - org.apache.geode:geode-core - CWE-502 - Apache Geode vulnerable to Deserialization of Untrusted Data
+  CVE-2021-37579 - org.apache.dubbo:dubbo - CWE-502 - Security check skip in Apache Dubbo
+  CVE-2021-25642 - org.apache.hadoop:hadoop-yarn-server - CWE-502 - Deserialization of Untrusted Data in Apache Hadoop YARN
+  CVE-2020-36186 - com.fasterxml.jackson.core:jackson-databind - CWE-502 - Unsafe Deserialization in jackson-databind
+  CVE-2023-36480 - com.aerospike:aerospike-client - CWE-502 - Aerospike Java Client vulnerable to unsafe deserialization of server responses
+  CVE-2021-25641 - org.apache.dubbo:dubbo - CWE-502 - Deserializer tampering in Apache Dubbo
+  CVE-2020-11619 - com.fasterxml.jackson.core:jackson-databind - CWE-502 - jackson-databind mishandles the interaction between serialization gadgets and typing
+  CVE-2020-36189 - com.fasterxml.jackson.core:jackson-databind - CWE-502 - Unsafe Deserialization in jackson-databind
+  CVE-2021-39151 - com.thoughtworks.xstream:xstream - CWE-434,CWE-502 - XStream is vulnerable to an Arbitrary Code Execution attack
+  CVE-2020-36182 - com.fasterxml.jackson.core:jackson-databind - CWE-502 - Unsafe Deserialization in jackson-databind
+  CVE-2020-11112 - com.fasterxml.jackson.core:jackson-databind - CWE-502 - jackson-databind mishandles the interaction between serialization gadgets and typing
+  CVE-2021-39147 - com.thoughtworks.xstream:xstream - CWE-502 - XStream is vulnerable to an Arbitrary Code Execution attack
+  CVE-2021-39145 - com.thoughtworks.xstream:xstream - CWE-502 - XStream is vulnerable to an Arbitrary Code Execution attack
+  CVE-2023-39106 - com.alibaba.nacos:nacos-spring-context - CWE-502 - Nacos Spring vulnerable to Unsafe Deserialization
+  CVE-2020-36188 - com.fasterxml.jackson.core:jackson-databind - CWE-502 - Unsafe Deserialization in jackson-databind
+  CVE-2020-9546 - com.fasterxml.jackson.core:jackson-databind - CWE-502 - jackson-databind mishandles the interaction between serialization gadgets and typing
+
+XXE - 23:
+  CVE-2020-25649 - com.fasterxml.jackson.core:jackson-databind - CWE-611 - XML External Entity (XXE) Injection in Jackson Databind
+  CVE-2019-9843 - com.diffplug.spotless:spotless-plugin-gradle - CWE-611 - Improper Restriction of XML External Entity Reference in DiffPlug Spotless
+  CVE-2022-0265 - com.hazelcast:hazelcast - CWE-611 - XML External Entity Reference in Hazelcast
+  CVE-2021-23463 - com.h2database:h2 - CWE-611 - Improper Restriction of XML External Entity Reference in com.h2database:h2.
+  CVE-2022-0839 - org.liquibase:liquibase-core - CWE-611 - Improper Restriction of XML External Entity Reference in Liquibase
+  CVE-2019-10172 - org.codehaus.jackson:jackson-mapper-asl - CWE-611 - Improper Restriction of XML External Entity Reference in jackson-mapper-asl
+  CVE-2020-13692 - org.postgresql:postgresql - CWE-611 - Improper Restriction of XML External Entity Reference
+  CVE-2019-5312 - com.github.binarywang:weixin-java-common - CWE-611 - XML External Entity Reference in weixin-java-tools
+  CVE-2021-23899 - com.mikesamuel:json-sanitizer - CWE-611 - Arbitrary code injection in json-sanitizer
+  CVE-2019-0188 - org.apache.camel:camel-core - CWE-611 - XML External Entity injection in Apache Camel
+  CVE-2019-13990 - org.quartz-scheduler:quartz - CWE-611 - XML external entity injection in Terracotta Quartz Scheduler
+  CVE-2021-3878 - edu.stanford.nlp:stanford-corenlp - CWE-611 - Improper Restriction of XML External Entity Reference in Stanford CoreNLP
+  CVE-2021-3869 - edu.stanford.nlp:stanford-corenlp - CWE-611 - Improper Restriction of XML External Entity Reference in Stanford CoreNLP
+  CVE-2022-46751 - org.apache.ivy:ivy - CWE-611 - Apache Ivy External Entity Reference vulnerability
+  CVE-2019-7722 - net.sourceforge.pmd:pmd-core - CWE-611 - Improper Restriction of XML External Entity Reference in PMD
+  CVE-2019-0228 - org.apache.pdfbox:pdfbox - CWE-611 - Vulnerability that affects org.apache.pdfbox:pdfbox
+  CVE-2021-41411 - org.drools:drools-core - CWE-611 - XML External Entity Reference in drools
+  CVE-2019-3773 - org.springframework.ws:spring-ws - CWE-611 - Vulnerability that affects org.springframework.ws:spring-ws and org.springframework.ws:spring-xml
+  CVE-2022-39135 - org.apache.calcite:calcite-core - CWE-611 - Apache Calcite before 1.32.0 vulnerable to potential XML External Entity (XXE) attack
+  CVE-2022-0239 - edu.stanford.nlp:stanford-corenlp - CWE-611 - corenlp is vulnerable to Improper Restriction of XML External Entity Reference
+  CVE-2023-3276 - cn.hutool:hutool-core - CWE-611 - HuTool XML parsing module has blind XXE vulnerability
+  CVE-2020-10683 - org.dom4j:dom4j - CWE-611 - dom4j allows External Entities by default which might enable XXE attacks
+  CVE-2021-33813 - org.jdom:jdom - CWE-611 - XML External Entity (XXE) Injection in JDOM
+
+Path Traversal - 25:
+  CVE-2022-26612 - org.apache.hadoop:hadoop-common - CWE-22 - Path traversal in Hadoop
+  CVE-2023-37460 - org.codehaus.plexus:plexus-archiver - CWE-22 - Arbitrary File Creation in AbstractUnArchiver
+  CVE-2019-17640 - io.vertx:vertx-web - CWE-22,CWE-23 - Path Traversal in Eclipse Vert
+  CVE-2021-44138 - com.caucho:resin - CWE-22 - Path Traversal in Caucho Resin
+  CVE-2022-4244 - org.codehaus.plexus:plexus-utils - CWE-22 - plexus-codehaus vulnerable to directory traversal
+  CVE-2022-37865 - org.apache.ivy:ivy - CWE-22 - Apache Ivy does not verify target path when extracting the archive
+  CVE-2022-32287 - org.apache.uima:uimaj-core - CWE-22 - Apache UIMA Path Traversal vulnerability
+  CVE-2023-50449 - com.jfinal:jfinal - CWE-22 - Directory Traversal in JFinalCMS
+  CVE-2020-17518 - org.apache.flink:flink-runtime - CWE-22,CWE-23 - Upload of file to arbitrary path in Apache Flink
+  CVE-2020-5410 - org.springframework.cloud:spring-cloud-config-server - CWE-22,CWE-23 - Directory traversal attack in Spring Cloud Config
+  CVE-2021-20218 - io.fabric8:kubernetes-client - CWE-22 - Improper Limitation of a Pathname to a Restricted Directory in Fabric8 Kubernetes Client
+  CVE-2021-43795 - com.linecorp.armeria:armeria - CWE-22 - Path Traversal in com.linecorp.armeria:armeria
+  CVE-2019-0194 - org.apache.camel:camel-core - CWE-22 - Path Traversal in Apache Camel
+  CVE-2022-4065 - org.testng:testng - CWE-22 - TestNG is vulnerable to Path Traversal
+  CVE-2022-31159 - com.amazonaws:aws-java-sdk-s3 - CWE-22 - Partial Path Traversal in com.amazonaws:aws-java-sdk-s3
+  CVE-2022-26049 - com.diffplug.gradle:goomph - CWE-22 - Goomph before 3.37.2 allows malicious zip file to write contents to arbitrary locations
+  CVE-2022-37866 - org.apache.ivy:ivy - CWE-22 - Apache Ivy vulnerable to path traversal
+  CVE-2022-23457 - org.owasp.esapi:esapi - CWE-22 - Path traversal in the OWASP Enterprise Security API
+  CVE-2022-31194 - org.dspace:dspace-jspui - CWE-22 - JSPUI vulnerable to path traversal in submission (resumable) upload
+  CVE-2023-34062 - io.projectreactor.netty:reactor-netty-http - CWE-22 - In Reactor Netty HTTP Server a malicious user can send a request using a specially crafted URL that can lead to a directory traversal attack
+  CVE-2020-8570 - io.kubernetes:client-java - CWE-22 - Path Traversal in the Java Kubernetes Client
+  CVE-2021-32769 - io.micronaut:micronaut-http-server-netty - CWE-22 - Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') in micronaut-core
+  CVE-2023-34478 - org.apache.shiro:shiro-web - CWE-22 - Path Traversal in Apache Shiro
+  CVE-2022-31195 - org.dspace:dspace-api - CWE-22 - DSpace ItemImportService API Vulnerable to Path Traversal in Simple Archive Format Package Import
+  CVE-2019-0207 - org.apache.tapestry:tapestry-core - CWE-22 - Path traversal attack on Windows platforms
+
+Command Injection - 21:
+  CVE-2022-40929 - com.xuxueli:xxl-job-core - CWE-78 - XXL-JOB contains a Command execution vulnerability in background tasks
+  CVE-2023-25826 - net.opentsdb:opentsdb - CWE-78 - Command injection in OpenTSDB
+  CVE-2022-25168 - org.apache.hadoop:hadoop-common - CWE-78,CWE-88 - Apache Hadoop argument injection vulnerability
+  CVE-2020-11002 - io.dropwizard:dropwizard-validation - CWE-74 - Remote Code Execution (RCE) vulnerability in dropwizard-validation
+  CVE-2020-35476 - net.opentsdb:opentsdb - CWE-78 - OS Command Injection in OpenTSDB
+  CVE-2020-26238 - com.cronutils:cron-utils - CWE-74 - Template injection in cron-utils
+  CVE-2019-17513 - io.ratpack:ratpack-core - CWE-74 - io.ratpack:ratpack-core vulnerable to Improper Neutralization of Special Elements in Output ('Injection')
+  CVE-2023-25613 - org.apache.kerby:ldap-backend - CWE-74 - Apache Kerby LdapIdentityBackend LDAP Injection vulnerability
+  CVE-2020-11002 - io.dropwizard:dropwizard-validation - CWE-74 - Remote Code Execution (RCE) vulnerability in dropwizard-validation
+  CVE-2022-39243 - com.zaxxer:nuprocess - CWE-77 - NuProcess vulnerable to command-line injection through insertion of NUL character(s)
+  CVE-2020-26217 - com.thoughtworks.xstream:xstream - CWE-78 - XStream can be used for Remote Code Execution
+  CVE-2019-0232 - org.apache.tomcat.embed:tomcat-embed-core - CWE-78 - Apache Tomcat OS Command Injection vulnerability
+  CVE-2023-36812 - net.opentsdb:opentsdb - CWE-74 - Remote Code Execution for 2.4.1 and earlier
+  CVE-2021-43113 - com.itextpdf:itext7-core - CWE-77 - Command injection in itext7-core
+  CVE-2022-23221 - com.h2database:h2 - CWE-88 - Arbitrary code execution in H2 Console
+  CVE-2023-38286 - de.codecentric:spring-boot-admin-server - CWE-77 - Thymeleaf, as used in Spring Boot Admin, allows sandbox bypass via crafted HTML
+  CVE-2021-36162 - org.apache.dubbo:dubbo - CWE-77 - Remote Code Execution in Apache Dubbo
+  CVE-2021-41862 - com.googlecode.aviator:aviator - CWE-74 - Expression injection in AviatorScript
+  CVE-2022-33980 - org.apache.commons:commons-configuration2 - CWE-74 - Code injection in Apache Commons Configuration
+  CVE-2022-45143 - org.apache.tomcat:tomcat - CWE-116,CWE-74 - Apache Tomcat improperly escapes input from JsonErrorReportValve
+  CVE-2022-29599 - org.apache.maven.shared:maven-shared-utils - CWE-116,CWE-77 - Command injection in Apache Maven maven-shared-utils
+
+Code Injection - 20:
+  CVE-2022-22980 - org.springframework.data:spring-data-mongodb - CWE-917 - SpEL Injection in Spring Data MongoDB
+  CVE-2023-33246 - org.apache.rocketmq:rocketmq-broker - CWE-94 - Apache RocketMQ may have remote code execution vulnerability when using update configuration function
+  CVE-2021-30181 - com.alibaba:dubbo - CWE-94 - Code injection in Apache Dubbo
+  CVE-2021-43466 - org.thymeleaf:thymeleaf-spring5 - CWE-94 - Template injection in thymeleaf-spring5
+  CVE-2022-22963 - org.springframework.cloud:spring-cloud-function-context - CWE-917,CWE-94 - Spring Cloud Function Code Injection with a specially crafted SpEL as a routing expression
+  CVE-2023-32697 - org.xerial:sqlite-jdbc - CWE-94 - Sqlite-jdbc vulnerable to remote code execution when JDBC url is attacker controlled
+  CVE-2021-22053 - org.springframework.cloud:spring-cloud-netflix-hystrix-dashboard - CWE-94 - Code injection in spring-cloud-netflix-hystrix-dashboard
+  CVE-2021-31805 - org.apache.struts:struts2-core - CWE-917 - Expression Language Injection in Apache Struts
+  CVE-2022-42889 - org.apache.commons:commons-text - CWE-94 - Arbitrary code execution in Apache Commons Text
+  CVE-2021-41269 - com.cronutils:cron-utils - CWE-94 - Critical vulnerability found in cron-utils
+  CVE-2019-0193 - org.apache.solr:solr-core - CWE-94 - XML External Entity (XXE) Injection in Apache Solr
+  CVE-2023-39021 - com.wix:wix-embedded-mysql - CWE-94 - Code injection in wix-embedded-mysql
+  CVE-2019-0222 - org.apache.activemq:activemq-client - CWE-94 - Improper Control of Generation of Code ('Code Injection') in org.apache.activemq:activemq-client
+  CVE-2023-41544 - org.jeecgframework.boot:jeecg-boot-common - CWE-94 - JeecgBoot server-side template injection
+  CVE-2023-39020 - edu.stanford.nlp:stanford-parser - CWE-94 - Code injection in stanford-parser
+  CVE-2023-37582 - org.apache.rocketmq:rocketmq-namesrv - CWE-94 - RocketMQ NameServer component Code Injection vulnerability
+  CVE-2019-10174 - org.infinispan:infinispan-core - CWE-470 - Use of Externally-Controlled Input to Select Classes or Code in Infinispan
+  CVE-2023-39015 - us.codecraft:webmagic-core - CWE-94 - Code injection in webmagic-core
+  CVE-2020-17530 - org.apache.struts:struts2-core - CWE-917,CWE-94 - Remote code execution in Apache Struts
+  CVE-2022-41853 - org.hsqldb:hsqldb - CWE-470 - HyperSQL DataBase vulnerable to remote code execution when processing untrusted input
+
+Web - 35:
+  CVE-2023-49398 - com.jfinal:jfinal - CWE-352 - Cross-Site Request Forgery in JFinalCMS via /admin/category/delete
+  CVE-2023-49381 - com.jfinal:jfinal - CWE-352 - Cross-Site Request Forgery in JFinalCMS via /admin/div/update
+  CVE-2023-49448 - com.jfinal:jfinal - CWE-352 - Cross-Site Request Forgery in JFinalCMS via admin/nav/delete
+  CVE-2023-46650 - com.coravy.hudson.plugins.github:github - CWE-79 - Stored XSS vulnerability in Jenkins GitHub Plugin
+  CVE-2023-49446 - com.jfinal:jfinal - CWE-352 - Cross-Site Request Forgery in JFinalCMS via /admin/nav/save
+  CVE-2023-25827 - net.opentsdb:opentsdb - CWE-79 - Cross Site Scripting in OpenTSDB
+  CVE-2022-45064 - org.apache.sling:org.apache.sling.engine - CWE-79 - Apache Sling Engine vulnerable to cross-site scripting (XSS) that can lead to privilege escalation
+  CVE-2020-28191 - org.togglz:togglz-console - CWE-352 - Togglz console missing cross-site request forgery (CSRF) protection
+  CVE-2023-49372 - com.jfinal:jfinal - CWE-352 - Cross-Site Request Forgery in JFinalCMS
+  CVE-2019-16869 - io.netty:netty-all - CWE-444 - HTTP Request Smuggling in Netty
+  CVE-2023-49382 - com.jfinal:jfinal - CWE-352 - Cross-Site Request Forgery in JFinalCMS via /admin/div/delete
+  CVE-2021-28490 - org.owasp:csrfguard - CWE-352 - Cross-Site Request Forgery in OWASP CSRFGuard
+  CVE-2023-49376 - com.jfinal:jfinal - CWE-352 - Cross-Site Request Forgery in JFinalCMS
+  CVE-2023-49397 - com.jfinal:jfinal - CWE-352 - Cross-Site Request Forgery in JFinalCMS via /admin/category/updateStatus
+  CVE-2023-49447 - com.jfinal:jfinal - CWE-352 - Cross-Site Request Forgery in JFinalCMS via /admin/nav/update
+  CVE-2020-7622 - io.jooby:jooby-netty - CWE-444 - Improper Neutralization of CRLF Sequences in HTTP Headers in Jooby ('HTTP Response Splitting)
+  CVE-2022-31192 - org.dspace:dspace-jspui - CWE-79 - JSPUI Possible Cross Site Scripting in "Request a Copy" Feature
+  CVE-2020-7238 - io.netty:netty-handler - CWE-444 - HTTP Request Smuggling in Netty
+  CVE-2023-49374 - com.jfinal:jfinal - CWE-352 - Cross-Site Request Forgery in JFinalCMS via /admin/slide/update
+  CVE-2022-4361 - org.keycloak:keycloak-services - CWE-79,CWE-81 - Keycloak vulnerable to cross-site scripting when validating URI-schemes on SAML and OIDC
+  CVE-2020-35217 - io.vertx:vertx-web - CWE-352 - Cross-Site Request Forgery in Vert.x-Web framework
+  CVE-2019-20444 - io.netty:netty-codec-http - CWE-444 - HTTP Request Smuggling in Netty
+  CVE-2023-49379 - com.jfinal:jfinal - CWE-352 - Cross-Site Request Forgery in JFinalCMS via the component /admin/friend_link/save
+  CVE-2023-49383 - com.jfinal:jfinal - CWE-352 - Cross-Site Request Forgery in JFinalCMS via /admin/tag/save
+  CVE-2020-7611 - io.micronaut:micronaut-http-client - CWE-444 - Micronaut's HTTP client is vulnerable to HTTP Request Header Injection
+  CVE-2020-5398 - org.springframework:spring-webmvc - CWE-494,CWE-79 - RFD attack via Content-Disposition header sourced from request input by Spring MVC or Spring WebFlux Application
+  CVE-2023-49373 - com.jfinal:jfinal - CWE-352 - Cross-Site Request Forgery in JFinalCMS
+  CVE-2023-49378 - com.jfinal:jfinal - CWE-352 - Cross-Site Request Forgery in JFinalCMS via /admin/form/save
+  CVE-2023-49377 - com.jfinal:jfinal - CWE-352 - Cross-Site Request Forgery in JFinalCMS via /admin/tag/update
+  CVE-2023-49395 - com.jfinal:jfinal - CWE-352 - Cross-Site Request Forgery in JFinalCMS via /admin/category/update
+  CVE-2023-49380 - com.jfinal:jfinal - CWE-352 - Cross-Site Request Forgery in JFinalCMS via /admin/friend_link/delete
+  CVE-2023-49375 - com.jfinal:jfinal - CWE-352 - Cross-Site Request Forgery in JFinalCMS via /admin/friend_link/update
+  CVE-2023-49396 - com.jfinal:jfinal - CWE-352 - Cross-Site Request Forgery in JFinalCMS via /admin/category/save
+  CVE-2023-32070 - org.xwiki.rendering:xwiki-rendering-syntax-xhtml - CWE-79,CWE-83 - Improper Neutralization of Script in Attributes in XWiki (X)HTML renderers
+  CVE-2022-31191 - org.dspace:dspace-jspui - CWE-79 - JSPUI spellcheck and autocomplete tools vulnerable to Cross Site Scripting
+
+SQL Injection - 14:
+  CVE-2023-1454 - org.jeecgframework.boot:jeecg-boot-common - CWE-89 - jeecg-boot SQL Injection vulnerability
+  CVE-2023-38992 - org.jeecgframework.boot:jeecg-boot-common - CWE-89 - SQL injection in jeecg-boot
+  CVE-2023-24163 - cn.hutool:hutool-all - CWE-89 - Dromara hutool vulnerable to SQL Injection
+  CVE-2023-41542 - org.jeecgframework.boot:jeecg-boot-common - CWE-89 - Jeecg Boot SQL injection vulnerability
+  CVE-2023-25330 - com.baomidou:mybatis-plus - CWE-89 - MyBatis-Plus vulnerable to SQL injection via TenantPlugin
+  CVE-2022-45207 - org.jeecgframework.boot:jeecg-boot-common - CWE-89 - Jeecg-boot vulnerable to SQL injection via updateNullByEmptyString
+  CVE-2022-23305 - log4j:log4j - CWE-89 - SQL Injection in Log4j 1.2.x
+  CVE-2022-45206 - org.jeecgframework.boot:jeecg-boot-common - CWE-89 - Jeecg-boot vulnerable to SQL Injection
+  CVE-2022-28111 - com.github.pagehelper:pagehelper - CWE-89 - MyBatis PageHelper vulnerable to time-blind SQL injection via orderBy parameter
+  CVE-2022-47105 - org.jeecgframework.boot:jeecg-boot-base-core - CWE-89 - Jeecg-boot is vulnerable to SQL injection
+  CVE-2022-31197 - org.postgresql:postgresql - CWE-89 - PostgreSQL JDBC Driver SQL Injection in ResultSet.refreshRow() with malicious column names
+  CVE-2023-40989 - org.jeecgframework.boot:jeecg-boot-common - CWE-89 - SQL injection in jeecgboot
+  CVE-2023-41543 - org.jeecgframework.boot:jeecg-boot-common - CWE-89 - Jeecg Boot SQL Injection
+  CVE-2020-25638 - org.hibernate:hibernate-core - CWE-89 - SQL injection in hibernate-core
+
+Resource Exhaustion - 55:
+  CVE-2022-29546 - net.sourceforge.htmlunit:neko-htmlunit - CWE-400 - OutOfMemory Exception by specifically crafted processing instruction in NekoHtml Parser
+  CVE-2019-10094 - org.apache.tika:tika-core - CWE-770 - Allocation of Resources Without Limits or Throttling in Apache Tika
+  CVE-2020-7226 - org.cryptacular:cryptacular - CWE-770 - Denial of Service in Cryptacular
+  CVE-2021-37714 - org.jsoup:jsoup - CWE-248,CWE-835 - Uncaught Exception in jsoup
+  CVE-2021-37137 - io.netty:netty-codec - CWE-400 - SnappyFrameDecoder doesn't restrict chunk length any may buffer skippable chunks in an unnecessary way
+  CVE-2023-28118 - com.charleskorn.kaml:kaml - CWE-776 - kaml has potential denial of service while parsing input with anchors and aliases
+  CVE-2019-14888 - io.undertow:undertow-core - CWE-400 - Undertow vulnerable to Uncontrolled Resource Consumption
+  CVE-2023-34396 - org.apache.struts:struts2-core - CWE-770 - Apache Struts vulnerable to memory exhaustion
+  CVE-2022-3510 - com.google.protobuf:protobuf-java - CWE-400 - Protobuf Java vulnerable to Uncontrolled Resource Consumption
+  CVE-2021-31405 - com.vaadin:vaadin-bom - CWE-400 - Regular expression denial of service (ReDoS) in EmailField component in Vaadin 14 and 15-17
+  CVE-2020-35510 - org.jboss.remoting:jboss-remoting - CWE-400 - Uncontrolled Resource Consumption in jboss-remoting
+  CVE-2023-34455 - org.xerial.snappy:snappy-java - CWE-770 - snappy-java's unchecked chunk length leads to DoS
+  CVE-2021-31409 - com.vaadin:vaadin-compatibility-server - CWE-400 - Regular expression Denial of Service (ReDoS) in EmailValidator class in V7 compatibility module in Vaadin 8
+  CVE-2023-44487 - io.netty:netty-codec-http2 - CWE-400 - io.netty:netty-codec-http2 vulnerable to HTTP/2 Rapid Reset Attack
+  CVE-2023-1108 - io.undertow:undertow-core - CWE-835 - Undertow denial of service vulnerability
+  CVE-2020-11996 - org.apache.tomcat:tomcat - CWE-400 - Uncontrolled Resource Consumption in Apache Tomcat
+  CVE-2021-3629 - io.undertow:undertow-core - CWE-400 - Undertow Uncontrolled Resource Consumption
+  CVE-2023-24998 - commons-fileupload:commons-fileupload - CWE-770 - Apache Commons FileUpload denial of service vulnerability
+  CVE-2022-23913 - org.apache.activemq:artemis-core-client - CWE-400,CWE-770 - Apache ActiveMQ Artemis Uncontrolled Resource Consumption (DoS)
+  CVE-2021-37136 - io.netty:netty-codec - CWE-400 - Bzip2Decoder doesn't allow setting size restrictions for decompressed data
+  CVE-2019-17359 - org.bouncycastle:bcprov-jdk14 - CWE-770 - Out-of-Memory Error in Bouncy Castle Crypto
+  CVE-2020-11612 - io.netty:netty-handler - CWE-119,CWE-400,CWE-770 - Denial of Service in Netty
+  CVE-2022-3509 - com.google.protobuf:protobuf-java - CWE-400 - Protobuf Java vulnerable to Uncontrolled Resource Consumption
+  CVE-2021-23926 - org.apache.xmlbeans:xmlbeans - CWE-776 - Improper Restriction of Recursive Entity References in Apache XMLBeans
+  CVE-2022-31781 - org.apache.tapestry:tapestry-core - CWE-1333,CWE-400 - Apache Tapestry 5.8.1 vulnerable to ReDoS via Content Types causing catastrophic backtracking
+  CVE-2019-5427 - com.mchange:c3p0 - CWE-776 - Billion laughs attack in c3p0
+  CVE-2021-35515 - org.apache.commons:commons-compress - CWE-834,CWE-835 - Excessive Iteration in Compress
+  CVE-2019-10088 - org.apache.tika:tika-core - CWE-770 - Allocation of Resources Without Limits or Throttling in Apache Tika
+  CVE-2020-13949 - org.apache.thrift:libthrift - CWE-400 - Uncontrolled Resource Consumption in Apache Thrift
+  CVE-2023-51075 - cn.hutool:hutool-core - CWE-835 - hutool-core discovered to contain an infinite loop in the StrSplitter.splitByRegex function
+  CVE-2020-10705 - io.undertow:undertow-core - CWE-770 - Allocation of Resources Without Limits or Throttling in Undertow
+  CVE-2023-31418 - org.elasticsearch:elasticsearch - CWE-400 - Elasticsearch vulnerable to Uncontrolled Resource Consumption
+  CVE-2022-2048 - org.eclipse.jetty.http2:http2-server - CWE-400,CWE-410 - Jetty vulnerable to Invalid HTTP/2 requests that can lead to denial of service
+  CVE-2022-23596 - com.github.junrar:junrar - CWE-400,CWE-835 - Junrar vulnerable to infinite loop via extracting carefully crafted RAR archive
+  CVE-2019-0199 - org.apache.tomcat.embed:tomcat-embed-core - CWE-400 - Apache Tomcat Denial of Service vulnerability
+  CVE-2021-3690 - io.undertow:undertow-core - CWE-400,CWE-401 - Undertow vulnerable to memory exhaustion due to buffer leak
+  CVE-2020-28491 - com.fasterxml.jackson.dataformat:jackson-dataformat-cbor - CWE-770 - Denial of Service (DoS) in Jackson Dataformat CBOR
+  CVE-2021-35516 - org.apache.commons:commons-compress - CWE-130,CWE-770 - Improper Handling of Length Parameter Inconsistency in Compress
+  CVE-2023-20883 - org.springframework.boot:spring-boot-autoconfigure - CWE-400 - Spring Boot Welcome Page Denial of Service
+  CVE-2022-2053 - io.undertow:undertow-core - CWE-400 - Undertow vulnerable to Dos via Large AJP request
+  CVE-2019-12402 - org.apache.commons:commons-compress - CWE-835 - Denial of Service in Apache Commons Compress
+  CVE-2019-12401 - org.apache.solr:solr-core - CWE-776 - Apache Solr  vulnerable to XML Bomb
+  CVE-2020-36320 - com.vaadin:vaadin-bom - CWE-400 - Regular expression denial of service (ReDoS) in EmailValidator class in Vaadin 7
+  CVE-2020-13935 - org.apache.tomcat:tomcat - CWE-835 - Infinite Loop in Apache Tomcat
+  CVE-2022-37734 - com.graphql-java:graphql-java - CWE-400 - graphql-java vulnerable to Denial of Service via GraphQL query that consumes CPU resources
+  CVE-2020-14326 - org.jboss.resteasy:resteasy-bom - CWE-400 - RESTEasy 4.5.5.Final in hash flooding
+  CVE-2021-35517 - org.apache.commons:commons-compress - CWE-130,CWE-770 - Improper Handling of Length Parameter Inconsistency in Compress
+  CVE-2023-43642 - org.xerial.snappy:snappy-java - CWE-770 - snappy-java's missing upper bound check on chunk length can lead to Denial of Service (DoS) impact
+  CVE-2022-40150 - org.codehaus.jettison:jettison - CWE-400,CWE-674 - Jettison memory exhaustion
+  CVE-2019-0205 - org.apache.thrift:libthrift - CWE-835 - Loop with Unreachable Exit Condition in Apache Thrift
+  CVE-2022-22970 - org.springframework:spring-core - CWE-770 - Denial of service in Spring Framework
+  CVE-2023-6563 - org.keycloak:keycloak-model-jpa - CWE-770 - Allocation of Resources Without Limits in Keycloak
+  CVE-2020-27782 - io.undertow:undertow-core - CWE-400 - Denial of service in Undertow
+  CVE-2022-25857 - org.yaml:snakeyaml - CWE-400 - Uncontrolled Resource Consumption in snakeyaml
+  CVE-2023-28867 - com.graphql-java:graphql-java - CWE-770 - GraphQL Java vulnerable to stack consumption
+
+Incorrect Behavior - 11:
+  CVE-2022-2576 - org.eclipse.californium:californium-core - CWE-408 - Eclipse Californium denial of service (DoS) via Datagram Transport Layer Security (DTLS) handshake on parameter mismatch
+  CVE-2023-28709 - org.apache.tomcat:tomcat - CWE-193 - Apache Tomcat - Fix for CVE-2023-24998 was incomplete
+  CVE-2023-32731 - io.grpc:grpc-protobuf - CWE-440 - Connection confusion in gRPC
+  CVE-2022-23712 - org.elasticsearch:elasticsearch - CWE-754 - Improper Check for Unusual or Exceptional Conditions in Elasticsearch
+  CVE-2022-39368 - org.eclipse.californium:scandium - CWE-404 - Failing DTLS handshakes may cause throttling to block processing of records
+  CVE-2022-25762 - org.apache.tomcat:tomcat - CWE-404 - Improper socket reuse in Apache Tomcat
+  CVE-2019-17195 - com.nimbusds:nimbus-jose-jwt - CWE-754,CWE-755 - Improper Check for Unusual or Exceptional Conditions in Connect2id Nimbus JOSE+JWT
+  CVE-2019-11777 - org.eclipse.paho:org.eclipse.paho.client.mqttv3 - CWE-346,CWE-755 - Improper Handling of Exceptional Conditions and Origin Validation Error in Eclipse Paho Java client library
+  CVE-2021-30639 - org.apache.tomcat:tomcat - CWE-755 - Improper Handling of Exceptional Conditions in Apache Tomcat
+  CVE-2022-23496 - nl.basjes.parse.useragent:yauaa - CWE-755 - Yauaa vulnerable to ArrayIndexOutOfBoundsException triggered by a crafted Sec-Ch-Ua-Full-Version-List
+  CVE-2022-2191 - org.eclipse.jetty:jetty-server - CWE-404 - Jetty SslConnection does not release pooled ByteBuffers in case of errors
+
+Memory Corruption - 12:
+  CVE-2022-45693 - org.codehaus.jettison:jettison - CWE-787 - Jettison Out-of-bounds Write vulnerability
+  CVE-2023-51080 - cn.hutool:hutool-core - CWE-787 - hutool-core was discovered to contain a stack overflow via NumberUtil.toBigDecimal method
+  CVE-2020-36518 - com.fasterxml.jackson.core:jackson-databind - CWE-787 - Deeply nested json in jackson-databind
+  CVE-2023-42277 - cn.hutool:hutool-core - CWE-120 - hutool Buffer Overflow vulnerability
+  CVE-2022-45688 - cn.hutool:hutool-json - CWE-787 - json stack overflow vulnerability
+  CVE-2023-42276 - cn.hutool:hutool-core - CWE-120 - hutool Buffer Overflow vulnerability
+  CVE-2023-51074 - com.jayway.jsonpath:json-path - CWE-787 - json-path Out-of-bounds Write vulnerability
+  CVE-2021-37404 - org.apache.hadoop:hadoop-common - CWE-120,CWE-131,CWE-787 - Apache Hadoop heap overflow before v2.10.2, v3.2.3, v3.3.2
+  CVE-2023-42278 - cn.hutool:hutool-core - CWE-120 - hutool Buffer Overflow vulnerability
+  CVE-2021-31684 - net.minidev:json-smart - CWE-125,CWE-787 - Out of bounds read in json-smart
+  CVE-2022-45685 - org.codehaus.jettison:jettison - CWE-787 - Jettison Out-of-bounds Write vulnerability
+  CVE-2022-42920 - org.apache.bcel:bcel - CWE-787 - Apache Commons BCEL vulnerable to out-of-bounds write
+
+Authentication/Authorization - 62:
+  CVE-2023-4853 - io.quarkus:quarkus-vertx-http - CWE-148,CWE-863 - Quarkus HTTP vulnerable to incorrect evaluation of permissions
+  CVE-2020-10714 - org.wildfly.security:wildfly-elytron - CWE-384 - Session Fixation in WildFly Elytron
+  CVE-2021-4133 - org.keycloak:keycloak-services - CWE-863 - Improper Authorization in Keycloak
+  CVE-2021-29262 - org.apache.solr:solr-core - CWE-279,CWE-522 - Improper permission handling in Apache Solr
+  CVE-2021-34802 - org.neo4j:neo4j-kernel - CWE-269 - Improper Privilege Management in Neo4j Graph Database
+  CVE-2020-1938 - org.apache.tomcat.embed:tomcat-embed-core - CWE-269 - Improper Privilege Management in Tomcat
+  CVE-2023-38493 - com.linecorp.armeria:armeria - CWE-863 - Paths contain matrix variables bypass decorators
+  CVE-2022-22885 - cn.hutool:hutool-http - CWE-295 - Improper Certificate Validation in Hutool
+  CVE-2019-12418 - org.apache.tomcat.embed:tomcat-embed-core - CWE-522 - Insufficiently Protected Credentials in Apache Tomcat
+  CVE-2022-36437 - com.hazelcast:hazelcast - CWE-384 - Hazelcast connection caching
+  CVE-2020-14389 - org.keycloak:keycloak-core - CWE-269,CWE-916 - Improper privilege management in Keycloak
+  CVE-2019-10091 - org.apache.geode:geode-core - CWE-295 - Apache Geode SSL endpoint verification vulnerability
+  CVE-2023-6394 - io.quarkus:quarkus-smallrye-graphql-client - CWE-696,CWE-862 - Authorization bypass in Quarkus
+  CVE-2020-7009 - org.elasticsearch:elasticsearch - CWE-266,CWE-269 - Improper Privilege Management in Elasticsearch
+  CVE-2019-10158 - org.infinispan:infinispan-core - CWE-384 - Improper implementation of the session fixation protection in Infinispan
+  CVE-2023-30601 - org.apache.cassandra:cassandra-all - CWE-269 - Apache Cassandra: Privilege escalation when enabling FQL/Audit logs
+  CVE-2020-7692 - com.google.oauth-client:google-oauth-client - CWE-862,CWE-863 - Improper Authorization in Google OAuth Client
+  CVE-2019-0212 - org.apache.hbase:hbase - CWE-285 - Improper Authorization in org.apache.hbase:hbase
+  CVE-2020-9492 - org.apache.hadoop:hadoop-common - CWE-269,CWE-863 - Improper Privilege Management in Apache Hadoop
+  CVE-2020-7014 - org.elasticsearch:elasticsearch - CWE-266,CWE-269 - Privilege Escalation Flaw in Elasticsearch
+  CVE-2022-22978 - org.springframework.security:spring-security-core - CWE-285,CWE-863 - Authorization bypass in Spring Security
+  CVE-2019-11272 - org.springframework.security:spring-security-core - CWE-287,CWE-522 - Insufficiently Protected Credentials and Improper Authentication in Spring Security
+  CVE-2021-44550 - edu.stanford.nlp:stanford-corenlp - CWE-863 - Access Control vulnerability within CoreNLP
+  CVE-2019-12419 - org.apache.cxf:cxf - CWE-863 - Potential session hijack in Apache CXF
+  CVE-2021-41303 - org.apache.shiro:shiro-core - CWE-287 - Apache Shiro vulnerable to a specially crafted HTTP request causing an authentication bypass
+  CVE-2021-3827 - org.keycloak:keycloak-saml-core - CWE-287 - ECP SAML binding bypasses authentication flows
+  CVE-2020-11989 - org.apache.shiro:shiro-core - CWE-287 - Improper Authentication in Apache Shiro
+  CVE-2020-17510 - org.apache.shiro:shiro-spring - CWE-287 - Authentication bypass in Apache Shiro
+  CVE-2020-1748 - org.wildfly.security:wildfly-elytron - CWE-863 - Incorrect Authorization in WildFly Elytron
+  CVE-2020-5407 - org.springframework.security:spring-security-core - CWE-347 - Signature wrapping vulnerability in Spring Security
+  CVE-2019-19135 - org.eclipse.milo:sdk-client - CWE-330,CWE-522 - Insufficient Nonce Validation in Eclipse Milo Client
+  CVE-2020-1963 - org.apache.ignite:ignite-core - CWE-862 - File system access via H2 in Apache Ignite
+  CVE-2020-11050 - org.java-websocket:Java-WebSocket - CWE-295,CWE-297 - Improper Validation of Certificate with Host Mismatch in Java-WebSocket
+  CVE-2020-1957 - org.apache.shiro:shiro-core - CWE-287 - Improper Authentication in Apache Shiro
+  CVE-2022-1245 - org.keycloak:keycloak-services - CWE-639,CWE-862,CWE-863 - Keycloak vulnerable to privilege escalation on Token Exchange feature
+  CVE-2023-33265 - com.hazelcast:hazelcast - CWE-862 - Hazelcast Executor Services don't check client permissions properly
+  CVE-2022-37767 - io.pebbletemplates:pebble - CWE-863 - Pebble Templates protection mechanism bypass can lead to arbitrary code execution
+  CVE-2021-44878 - org.pac4j:pac4j-oidc - CWE-347 - Pac4j token validation bypass if OpenID Connect provider supports none algorithm
+  CVE-2023-34035 - org.springframework.security:spring-security-config - CWE-863 - Spring Security's authorization rules can be misconfigured when using multiple servlets
+  CVE-2022-32532 - org.apache.shiro:shiro-core - CWE-285,CWE-863 - Improper Authorization in Apache Shiro
+  CVE-2019-10184 - io.undertow:undertow-servlet - CWE-862 - Undertow Missing Authorization when requesting a protected directory without trailing slash
+  CVE-2020-13933 - org.apache.shiro:shiro-core - CWE-287 - Authentication bypass in Apache Shiro
+  CVE-2022-40664 - org.apache.shiro:shiro-core - CWE-287 - Apache Shiro Authentication Bypass vulnerability
+  CVE-2019-17563 - org.apache.tomcat.embed:tomcat-embed-core - CWE-384 - In Apache Tomcat, when using FORM authentication there was a narrow window where an attacker could perform a session fixation attack
+  CVE-2023-2422 - org.keycloak:keycloak-services - CWE-295 - Keycloak vulnerable to Improper Client Certificate Validation for OAuth/OpenID clients
+  CVE-2021-43116 - com.alibaba.nacos:nacos-client - CWE-287,CWE-798 - Use of Hard-coded Credentials in Nacos
+  CVE-2020-1745 - io.undertow:undertow-core - CWE-285 - Improper Authorization in Undertoe
+  CVE-2021-3632 - org.keycloak:keycloak-core - CWE-287 - Keycloak allows anyone to register new security device or key for any user by using WebAuthn password-less login flow
+  CVE-2023-22946 - org.apache.spark:spark-core_2.12 - CWE-269 - Apache Spark vulnerable to Improper Privilege Management
+  CVE-2020-17523 - org.apache.shiro:shiro-web - CWE-287 - Authentication bypass in Apache Shiro
+  CVE-2019-11284 - io.projectreactor.netty:reactor-netty - CWE-522 - Insufficiently Protected Credentials in Pivotal Reactor Netty
+  CVE-2021-22573 - com.google.oauth-client:google-oauth-client - CWE-347 - Improper Verification of Cryptographic Signature in google-oauth-java-client
+  CVE-2021-41189 - org.dspace:dspace-api - CWE-863 - Communities and collections administrators can escalate their privilege up to system administrator
+  CVE-2019-0223 - org.apache.qpid:proton-j - CWE-295 - Improper Certificate Validation in Apache Qpid Proton
+  CVE-2023-30428 - org.apache.pulsar:pulsar-broker - CWE-863 - Apache Pulsar Broker's Rest Producer vulnerable to Incorrect Authorization
+  CVE-2022-31692 - org.springframework.security:spring-security-core - CWE-863 - Spring Security authorization rules can be bypassed via forward or include dispatcher types
+  CVE-2021-22112 - org.springframework.security:spring-security-bom - CWE-269 - Privilege escalation in spring security
+  CVE-2023-43961 - cn.dev33:sa-token-core - CWE-287,CWE-863 - SaToken authentication bypass vulnerability
+  CVE-2022-31690 - org.springframework.security:spring-security-oauth2-client - CWE-269 - spring-security-oauth2-client vulnerable to Privilege Escalation
+  CVE-2022-4147 - io.quarkus:quarkus-vertx-http - CWE-285 - Quarkus CORS filter allows simple GET and POST requests with an invalid Origin to proceed
+  CVE-2019-10201 - org.keycloak:keycloak-core - CWE-347 - Improper Verification of Cryptographic Signature in keycloak
+  CVE-2023-0264 - org.keycloak:keycloak-services - CWE-287,CWE-345 - Keycloak vulnerable to user impersonation via stolen UUID code
+
+SSRF - 6:
+  CVE-2022-4725 - com.amazonaws:aws-android-sdk-mobile-client - CWE-918 - AWS SDK is vulnerable to server-side request forgery (SSRF)
+  CVE-2022-43183 - com.xuxueli:xxl-job-core - CWE-918 - XXL-JOB vulnerable to Server-Side Request Forgery (SSRF)
+  CVE-2022-46364 - org.apache.cxf:cxf-core - CWE-918 - Apache CXF Server-Side Request Forgery vulnerability
+  CVE-2019-0227 - org.apache.axis:axis - CWE-918 - Server Side Request Forgery in Apache Axis
+  CVE-2020-26258 - com.thoughtworks.xstream:xstream - CWE-918 - Server-Side Forgery Request can be activated unmarshalling with XStream
+  CVE-2022-44729 - org.apache.xmlgraphics:batik-bridge - CWE-918 - Apache XML Graphics Batik Server-Side Request Forgery vulnerability
+
+3P Data Exposure - 16:
+  CVE-2023-1584 - io.quarkus:quarkus-oidc - CWE-200 - Quarkus OIDC can leak both ID and access tokens
+  CVE-2023-33695 - cn.hutool:hutool-core - CWE-377,CWE-732 - Insecure Temporary File in HuTool
+  CVE-2023-50164 - org.apache.struts:struts2-core - CWE-552 - Apache Struts vulnerable to path traversal
+  CVE-2023-4918 - org.keycloak:keycloak-core - CWE-256,CWE-319 - Keycloak vulnerable to Plaintext Storage of User Password
+  CVE-2019-10249 - org.eclipse.xtext:org.eclipse.xtext - CWE-319 - Potentially compromised builds
+  CVE-2020-17527 - org.apache.tomcat:tomcat-coyote - CWE-200 - Exposure of Sensitive Information to an Unauthorized Actor in Apache Tomcat
+  CVE-2020-27216 - org.eclipse.jetty:jetty-webapp - CWE-378,CWE-379,CWE-552 - Local Temp Directory Hijacking Vulnerability
+  CVE-2019-0231 - org.apache.mina:mina-core - CWE-319 - Cleartext Transmission of Sensitive Information in Apache MINA
+  CVE-2021-25122 - org.apache.tomcat.embed:tomcat-embed-core - CWE-200 - Exposure of Sensitive Information to an Unauthorized Actor in Apache Tomcat
+  CVE-2019-0202 - org.apache.storm:storm-core - CWE-200 - Exposure of Sensitive Information in Apache Storm Logviewer
+  CVE-2021-21363 - io.swagger:swagger-codegen - CWE-378,CWE-379 - Generator Web Application: Local Privilege Escalation Vulnerability via System Temp Directory
+  CVE-2021-20202 - org.keycloak:keycloak-core - CWE-377 - Temporary Directory Hijacking Vulnerability in Keycloak
+  CVE-2020-11976 - org.apache.wicket:wicket-core - CWE-200,CWE-552 - Exposure of Sensitive Information to an Unauthorized Actor in Apache Wicket
+  CVE-2022-45868 - com.h2database:h2 - CWE-200,CWE-312 - Password exposure in H2 Database
+  CVE-2022-36537 - org.zkoss.zk:zk - CWE-200 - ZK Framework vulnerable to malicious POST
+  CVE-2021-40690 - org.apache.santuario:xmlsec - CWE-200 - Exposure of Sensitive Information to an Unauthorized Actor in Apache Santuario
+
+Multiple - 63:
+  CVE-2022-21126 - com.github.samtools:htsjdk - CWE-668 - HTSJDK is vulnerable to exposure of resource(s) to the wrong sphere
+  CVE-2022-40145 - org.apache.karaf:apache-karaf - CWE-20,CWE-74 - Apache Karaf vulnerable to potential code injection
+  CVE-2021-30180 - org.apache.dubbo:dubbo - CWE-444,CWE-94 - Code injection in Apache Dubbo
+  CVE-2022-29631 - org.jodd:jodd-http - CWE-74,CWE-918 - Server-Side Request Forgery in Jodd HTTP
+  CVE-2021-45046 - org.apache.logging.log4j:log4j-core - CWE-502,CWE-917 - Incomplete fix for Apache Log4j vulnerability
+  CVE-2020-1757 - io.undertow:undertow-core - CWE-20,CWE-200 - Improper Input Validation in Undertow
+  CVE-2019-10173 - com.thoughtworks.xstream:xstream - CWE-502,CWE-94 - Deserialization of Untrusted Data and Code Injection in xstream
+  CVE-2022-40151 - com.thoughtworks.xstream:xstream - CWE-121,CWE-502,CWE-787 - XStream can cause a Denial of Service by injecting deeply nested objects raising a stack overflow
+  CVE-2022-41966 - com.thoughtworks.xstream:xstream - CWE-120,CWE-121,CWE-502,CWE-674 - XStream can cause Denial of Service via stack overflow
+  CVE-2023-40826 - org.pf4j:pf4j - CWE-22,CWE-94 - pf4j vulnerable to remote code execution via the zippluginPath parameter
+  CVE-2019-14892 - com.fasterxml.jackson.core:jackson-databind - CWE-200,CWE-502 - Polymorphic deserialization of malicious object in jackson-databind
+  CVE-2020-11988 - org.apache.xmlgraphics:xmlgraphics-commons - CWE-20,CWE-918 - Server-side request forgery (SSRF) in Apache XmlGraphics Commons
+  CVE-2021-39150 - com.thoughtworks.xstream:xstream - CWE-502,CWE-918 - A Server-Side Forgery Request can be activated unmarshalling with XStream to access data streams from an arbitrary URL referencing a resource in an intranet or the local host
+  CVE-2021-43859 - com.thoughtworks.xstream:xstream - CWE-400,CWE-502 - Denial of Service by injecting highly recursive collections or maps in XStream
+  CVE-2021-33036 - org.apache.hadoop:hadoop-yarn-server-common - CWE-22,CWE-502 - User account escalation in Apache Hadoop
+  CVE-2023-49735 - org.apache.tiles:tiles-core - CWE-22,CWE-776 - Apache Tiles: Unvalidated input may lead to path traversal and XXE
+  CVE-2023-40828 - org.pf4j:pf4j - CWE-22,CWE-94 - pf4j vulnerable to remote code execution via expandIfZip method in the extract function
+  CVE-2022-34916 - org.apache.flume.flume-ng-sources:flume-jms-source - CWE-20,CWE-74 - Remote code execution in Apache Flume
+  CVE-2022-1471 - org.yaml:snakeyaml - CWE-20,CWE-502 - SnakeYaml Constructor Deserialization Remote Code Execution
+  CVE-2022-22965 - org.springframework:spring-beans - CWE-74,CWE-94 - Remote Code Execution in Spring Framework
+  CVE-2023-51441 - org.apache.axis:axis - CWE-20,CWE-918 - Apache Axis Improper Input Validation vulnerability
+  CVE-2021-3859 - io.undertow:undertow-core - CWE-214,CWE-400,CWE-668 - Undertow vulnerable to Denial of Service (DoS) attacks
+  CVE-2021-28165 - org.eclipse.jetty:jetty-server - CWE-400,CWE-551,CWE-755 - Jetty vulnerable to incorrect handling of invalid large TLS frame, exhausting CPU resources
+  CVE-2023-26119 - net.sourceforge.htmlunit:htmlunit - CWE-74,CWE-94 - HtmlUnit Code Injection vulnerability
+  CVE-2021-29505 - com.thoughtworks.xstream:xstream - CWE-502,CWE-74,CWE-94 - XStream is vulnerable to a Remote Command Execution attack
+  CVE-2019-17558 - org.apache.solr:solr-core - CWE-20,CWE-74,CWE-94 - Improper Input Validation in Apache Solr
+  CVE-2021-44228 - org.apache.logging.log4j:log4j-core - CWE-20,CWE-400,CWE-502,CWE-917 - Remote code injection in Log4j
+  CVE-2020-11979 - org.apache.ant:ant - CWE-74,CWE-94 - Code injection in Apache Ant
+  CVE-2021-20195 - org.keycloak:keycloak-core - CWE-116,CWE-20,CWE-79 - keycloak Self Stored Cross-site Scripting vulnerability
+  CVE-2023-30535 - net.snowflake:snowflake-jdbc - CWE-20,CWE-77 - Snowflake JDBC vulnerable to command injection via SSO URL authentication
+  CVE-2021-22119 - org.springframework.security:spring-security-core - CWE-400,CWE-863 - Resource Exhaustion in Spring Security
+  CVE-2022-46363 - org.apache.cxf:cxf-core - CWE-20,CWE-200 - Apache CXF vulnerable to Exposure of Sensitive Information
+  CVE-2021-22044 - org.springframework.cloud:spring-cloud-openfeign-core - CWE-668 - Exposure of Resource to Wrong Sphere in Spring Cloud OpenFeign
+  CVE-2023-34624 - net.sourceforge.htmlcleaner:htmlcleaner - CWE-400,CWE-787 - htmlcleaner vulnerable to stack exhaustion
+  CVE-2021-31407 - com.vaadin:flow-server - CWE-402,CWE-668 - OSGi applications using Vaadin 12-14 and 19 vulnerable to server classes and resources exposure
+  CVE-2021-22118 - org.springframework:spring-web - CWE-269,CWE-668 - Improper Privilege Management in Spring Framework
+  CVE-2023-34617 - com.owlike:genson - CWE-400,CWE-787 - genson vulnerable to stack exhaustion
+  CVE-2021-21341 - com.thoughtworks.xstream:xstream - CWE-400,CWE-502,CWE-835 - XStream can cause a Denial of Service.
+  CVE-2022-27772 - org.springframework.boot:spring-boot - CWE-377,CWE-379,CWE-668 - Temporary Directory Hijacking to Local Privilege Escalation Vulnerability in org.springframework.boot:spring-boot
+  CVE-2022-42468 - org.apache.flume.flume-ng-sources:flume-jms-source - CWE-20,CWE-502 - Apache Flume vulnerable to remote code execution via deserialization of unsafe providerURL
+  CVE-2022-4565 - cn.hutool:hutool-core - CWE-400,CWE-404 - HuTool vulnerable to Uncontrolled Resource Consumption
+  CVE-2023-34610 - com.cedarsoftware:json-io - CWE-400,CWE-787 - json-io vulnerable to stack exhaustion
+  CVE-2021-39144 - com.thoughtworks.xstream:xstream - CWE-306,CWE-502,CWE-94 - XStream is vulnerable to a Remote Command Execution attack
+  CVE-2021-30638 - org.apache.tapestry:tapestry-core - CWE-200,CWE-863 - Information Exposure in Apache Tapestry
+  CVE-2022-23640 - com.monitorjbl:xlsx-streamer - CWE-611,CWE-776 - Improper Restriction of XML External Entity Reference in com.monitorjbl:xlsx-streamer
+  CVE-2021-22696 - org.apache.cxf:cxf - CWE-400,CWE-918 - Authorization service vulnerable to DDos attacks in Apache CFX
+  CVE-2019-10199 - org.keycloak:keycloak-core - CWE-20,CWE-352 - Improper Input Validation and Cross-Site Request Forgery in Keycloak
+  CVE-2022-4116 - io.quarkus:quarkus-vertx-http-deployment - CWE-74,CWE-94 - Code injection in quarkus dev ui config editor
+  CVE-2023-26464 - org.apache.logging.log4j:log4j-core - CWE-400,CWE-502 - Apache Log4j 1.x (EOL) allows Denial of Service (DoS)
+  CVE-2020-5403 - io.projectreactor.netty:reactor-netty-http - CWE-20,CWE-755 - Improper Handling of Exceptional Conditions and Improper Input Validation in Reactor Netty
+  CVE-2021-41079 - org.apache.tomcat:tomcat - CWE-20,CWE-835 - Infinite loop in Tomcat due to parsing error
+  CVE-2022-42004 - com.fasterxml.jackson.core:jackson-databind - CWE-400,CWE-502 - Uncontrolled Resource Consumption in FasterXML jackson-databind
+  CVE-2022-46337 - org.apache.derby:derby - CWE-74,CWE-94 - Apache Derby: LDAP injection vulnerability in authenticator
+  CVE-2023-46589 - org.apache.tomcat:tomcat-catalina - CWE-20,CWE-444 - Apache Tomcat Improper Input Validation vulnerability
+  CVE-2022-42252 - org.apache.tomcat:tomcat - CWE-20,CWE-444 - Apache Tomcat may reject request containing invalid Content-Length header
+  CVE-2021-44521 - org.apache.cassandra:cassandra-all - CWE-732,CWE-94 - Apache Cassandra vulnerable to Code Injection due to unsafe configuration
+  CVE-2023-40827 - org.pf4j:pf4j - CWE-22,CWE-94 - pf4j vulnerable to remote code execution via loadpluginPath parameter
+  CVE-2020-24616 - com.fasterxml.jackson.core:jackson-databind - CWE-502,CWE-94 - Code Injection in jackson-databind
+  CVE-2023-39410 - org.apache.avro:avro - CWE-20,CWE-502 - Apache Avro Java SDK vulnerable to Improper Input Validation
+  CVE-2022-21724 - org.postgresql:postgresql - CWE-665,CWE-668,CWE-74 - pgjdbc Does Not Check Class Instantiation when providing Plugin Classes
+  CVE-2022-42003 - com.fasterxml.jackson.core:jackson-databind - CWE-400,CWE-502 - Uncontrolled Resource Consumption in Jackson-databind
+  CVE-2021-39152 - com.thoughtworks.xstream:xstream - CWE-502,CWE-918 - A Server-Side Forgery Request can be activated unmarshalling with XStream to access data streams from an arbitrary URL referencing a resource in an intranet or the local host
+  CVE-2023-20863 - org.springframework:spring-core - CWE-400,CWE-770,CWE-917 - Spring Framework vulnerable to denial of service
+
+Nan - 19:
+  CVE-2023-30331 - com.ibeetl:beetl - None - Server-side template injection in beetl
+  CVE-2023-20860 - org.springframework:spring - None - Spring Framework is vulnerable to security bypass via mvcRequestMatcher pattern mismatch
+  CVE-2020-10673 - com.fasterxml.jackson.core:jackson-databind - None - jackson-databind mishandles the interaction between serialization gadgets and typing
+  CVE-2023-34981 - org.apache.tomcat:tomcat - None - Apache Tomcat vulnerable to information leak
+  CVE-2021-31635 - com.jfinal:jfinal - None - jFinal Server-Side Template Injection vulnerability
+  CVE-2019-0204 - org.apache.mesos:mesos - None - Docker image code execution with Apache Mesos
+  CVE-2022-25914 - com.google.cloud.tools:jib-core - None - com.google.cloud.tools:jib-core vulnerable to Remote Code Execution (RCE)
+  CVE-2022-4492 - io.undertow:undertow-core - None - Undertow client not checking server identity presented by server certificate in https connections
+  CVE-2019-12422 - org.apache.shiro:shiro-core - None - Improper input validation in Apache Shiro
+  CVE-2023-20873 - org.springframework.boot:spring-boot-actuator-autoconfigure - None - Spring Boot Security Bypass with Wildcard Pattern Matching on Cloud Foundry
+  CVE-2023-34054 - io.projectreactor.netty:reactor-netty-http - None - Reactor Netty HTTP Server denial of service vulnerability
+  CVE-2023-50571 - org.jeasy:easy-rules-mvel - None - easy-rules-mvel vulnerable to remote code execution
+  CVE-2022-41404 - org.ini4j:ini4j - None - org.ini4j allows attackers to cause a Denial of Service (DoS)
+  CVE-2023-34053 - org.springframework:spring-webmvc - None - Spring Framework vulnerable to denial of service
+  CVE-2022-28366 - net.sourceforge.htmlunit:neko-htmlunit - None - Denial of service in HtmlUnit-Neko
+  CVE-2023-6481 - ch.qos.logback:logback-core - None - Logback is vulnerable to an attacker mounting a Denial-Of-Service attack by sending poisoned data
+  CVE-2021-46877 - com.fasterxml.jackson.core:jackson-databind - None - jackson-databind possible Denial of Service if using JDK serialization to serialize JsonNode
+  CVE-2020-10672 - com.fasterxml.jackson.core:jackson-databind - None - jackson-databind mishandles the interaction between serialization gadgets and typing
+  nan - nan - None - nan
+
+Unclassified Input Validation - 9:
+  CVE-2020-1953 - org.apache.commons:commons-configuration2 - CWE-20 - Remote code execution in Apache Commons Configuration
+  CVE-2020-15170 - com.ctrip.framework.apollo:apollo-core - CWE-20 - Potential access control security issue in apollo-adminservice
+  CVE-2020-1714 - org.keycloak:keycloak-core - CWE-20 - Improper Input Validation in Keycloak
+  CVE-2021-45105 - org.apache.logging.log4j:log4j-core - CWE-20,CWE-674 - Apache Log4j2 vulnerable to Improper Input Validation and Uncontrolled Recursion
+  CVE-2020-1695 - org.jboss.resteasy:resteasy-client - CWE-20 - Improper Input Validation in RESTEasy
+  CVE-2021-23937 - org.apache.wicket:wicket-core - CWE-20 - DNS based denial of service in Apache Wicket
+  CVE-2023-40743 - org.apache.axis:axis - CWE-20 - Apache Axis 1.x (EOL) may allow RCE when untrusted input is passed to getService
+  CVE-2023-6291 - org.keycloak:keycloak-services - CWE-20 - The redirect_uri validation logic allows for bypassing explicitly allowed hosts that would otherwise be restricted
+  CVE-2021-42575 - com.googlecode.owasp-java-html-sanitizer:owasp-java-html-sanitizer - CWE-20 - Policies not properly enforced in OWASP Java HTML Sanitizer
+
+Other - 51:
+  CVE-2022-41828 - com.amazon.redshift:redshift-jdbc42 - CWE-704 - com.amazon.redshift:redshift-jdbc42 vulnerable to remote command execution
+  CVE-2022-3143 - org.wildfly.security:wildfly-elytron - CWE-203,CWE-208 - Wildfly-elytron possibly vulnerable to timing attacks via use of unsafe comparator
+  CVE-2023-44794 - cn.dev33:sa-token-core - CWE-281 - SaToken privilege escalation vulnerability
+  CVE-2023-41835 - org.apache.struts:struts2-core - CWE-459 - Apache Struts Improper Control of Dynamically-Managed Code Resources vulnerability
+  CVE-2022-34169 - xalan:xalan - CWE-681 - Apache Xalan Java XSLT library integer truncation issue when processing malicious XSLT stylesheets
+  CVE-2020-1731 - org.keycloak:keycloak-core - CWE-330,CWE-341 - Predictable password in Keycloak
+  CVE-2020-5529 - net.sourceforge.htmlunit:htmlunit - CWE-665 - Code execution vulnerability in HtmlUnit
+  CVE-2022-31193 - org.dspace:dspace-jspui - CWE-601 - JSPUI's controlled vocabulary feature vulnerable to Open Redirect before v6.4 and v5.11
+  CVE-2022-36364 - org.apache.calcite.avatica:avatica-core - CWE-665 - Apache Calcite Avatica JDBC driver arbitrary code execution
+  CVE-2019-0233 - org.apache.struts:struts2-core - CWE-281 - Improper Preservation of Permissions in Apache Struts
+  CVE-2021-30129 - org.apache.sshd:sshd-mina - CWE-772 - Buffer Overflow in Apache Mina SSHD
+  CVE-2020-8022 - org.apache.tomcat:tomcat - CWE-276 - Incorrect Default Permissions in Apache Tomcat
+  CVE-2023-44981 - org.apache.zookeeper:zookeeper - CWE-639 - Authorization Bypass Through User-Controlled Key vulnerability in Apache ZooKeeper
+  CVE-2019-14379 - com.fasterxml.jackson.core:jackson-databind - CWE-1321,CWE-915 - Deserialization of untrusted data in FasterXML jackson-databind
+  CVE-2023-34034 - org.springframework.security:spring-security-config - CWE-284 - Access Control Bypass in Spring Security
+  CVE-2019-10170 - org.keycloak:keycloak-core - CWE-267 - Privilege Defined With Unsafe Actions in Keycloak
+  CVE-2019-7611 - org.elasticsearch:elasticsearch - CWE-284 - Improper Access Control in Elasticsearch
+  CVE-2019-17352 - com.jfinal:jfinal - CWE-434 - JFinal file validation vulnerability
+  CVE-2021-29479 - io.ratpack:ratpack-core - CWE-807 - Cached redirect poisoning via X-Forwarded-Host header
+  CVE-2022-23181 - org.apache.tomcat:tomcat - CWE-367 - Race condition in Apache Tomcat
+  CVE-2021-36161 - org.apache.dubbo:dubbo - CWE-134 - Remote Code Execution in Apache Dubbo
+  CVE-2020-27826 - org.keycloak:keycloak-core - CWE-250 - Authentication Bypass in keycloak
+  CVE-2019-17638 - org.eclipse.jetty:jetty-server - CWE-672,CWE-675 - Operation on a Resource after Expiration or Release in Jetty Server
+  CVE-2020-28052 - org.bouncycastle:bcprov-jdk15to18 - CWE-670 - Logic error in Legion of the Bouncy Castle BC Java
+  CVE-2019-11405 - org.openapitools:openapi-generator - CWE-311 - OpenAPI Tools OpenAPI Generator uses HTTP in various files
+  CVE-2022-22968 - org.springframework:spring-core - CWE-178 - Improper handling of case sensitivity in Spring Framework
+  CVE-2020-13934 - org.apache.tomcat:tomcat - CWE-119,CWE-476 - Improper Restriction of Operations within the Bounds of a Memory Buffer in Apache Tomcat
+  CVE-2023-4759 - org.eclipse.jgit:org.eclipse.jgit - CWE-178 - Arbitrary File Overwrite in Eclipse JGit
+  CVE-2021-40660 - org.javadelight:delight-nashorn-sandbox - CWE-1333 - Regular expression denial of service in Delight Nashorn Sandbox
+  CVE-2019-10072 - org.apache.tomcat.embed:tomcat-embed-core - CWE-667 - Improper Locking in Apache Tomcat
+  CVE-2019-10071 - org.apache.tapestry:tapestry-core - CWE-203,CWE-697 - Timing attack on HMAC signature comparison in Apache Tapestry
+  CVE-2023-1428 - io.grpc:grpc-protobuf - CWE-617 - gRPC Reachable Assertion issue
+  CVE-2021-42340 - org.apache.tomcat:tomcat - CWE-772 - Missing Release of Resource after Effective Lifetime in Apache Tomcat
+  CVE-2023-31582 - org.bitbucket.b_c:jose4j - CWE-327,CWE-331 - jose4j uses weak cryptographic algorithm
+  CVE-2021-26291 - org.apache.maven:maven-compat - CWE-346 - Origin Validation Error in Apache Maven
+  CVE-2023-1370 - net.minidev:json-smart - CWE-674 - json-smart Uncontrolled Recursion vulnerabilty
+  CVE-2021-23900 - com.mikesamuel:json-sanitizer - CWE-248 - Uncaught Exception leading to Denial of Service in json-sanitizer
+  CVE-2019-12409 - org.apache.solr:solr-core - CWE-434 - Unrestricted upload of file with dangerous type in Apache Solr
+  CVE-2023-1436 - org.codehaus.jettison:jettison - CWE-674 - Jettison vulnerable to infinite recursion
+  CVE-2019-12728 - org.grails:grails-core - CWE-494,CWE-669 - Incorrect Resource Transfer Between Spheres in Grails
+  CVE-2019-10099 - org.apache.spark:spark-core_2.11 - CWE-312 - Sensitive data written to disk unencrypted in Spark
+  CVE-2019-14837 - org.keycloak:keycloak-core - CWE-547,CWE-798 - keycloak vulnerable to unauthorized login via mail server setup
+  CVE-2019-0230 - org.apache.struts:struts2-core - CWE-1321,CWE-915 - Improperly Controlled Modification of Dynamically-Determined Object Attributes in Apache Struts
+  CVE-2023-36478 - org.eclipse.jetty.http2:http2-hpack - CWE-190 - HTTP/2 HPACK integer overflow and buffer allocation
+  CVE-2021-36090 - org.apache.commons:commons-compress - CWE-130 - Improper Handling of Length Parameter Inconsistency in Compress
+  CVE-2022-25867 - io.socket:socket.io-client - CWE-476 - Socket.IO-client Java before 2.0.1 vulnerable to NULL Pointer Dereference
+  CVE-2020-17516 - org.apache.cassandra:cassandra-all - CWE-290 - Authentication Bypass in Apache Cassandra
+  CVE-2019-3888 - io.undertow:undertow-core - CWE-532 - Credential exposure through log files in Undertow
+  CVE-2019-10212 - io.undertow:undertow-core - CWE-532 - Potential to access user credentials from the log files when debug logging enabled
+  CVE-2021-22569 - com.google.protobuf:protobuf-java - CWE-696 - A potential Denial of Service issue in protobuf-java
+  CVE-2022-45046 - org.apache.camel:camel-ldap - CWE-90 - camel-ldap component allows LDAP Injection when using the filter option
+
